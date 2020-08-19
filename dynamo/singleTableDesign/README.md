@@ -1,0 +1,2 @@
+Golang version of an [already existing repo](https://github.com/trek10inc/ddb-single-table-example)
+to exercise on [single table design](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling) in AWS DynamoDB.
